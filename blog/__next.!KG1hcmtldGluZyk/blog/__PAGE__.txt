@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[84929,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/0zyt3fogqzt0_.js"],"default"]
+3:I[79520,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/0zyt3fogqzt0_.js"],""]
+4:I[22016,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/0zyt3fogqzt0_.js"],""]
+5:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+9:X
+20:X
+20:C
+0:{"buildId":"j10NYM7MiO3AuQtJhGuas","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative px-6 sm:px-10 pt-[28vh] pb-[12vh]","children":["$","div",null,{"className":"max-w-6xl mx-auto","children":[["$","$L2",null,{"children":["$","div",null,{"className":"flex items-center justify-between gap-6 mb-12","children":[["$","span",null,{"className":"text-[11px] tracking-[0.4em] uppercase text-[#EDEDED]/35","children":["(","Journal",")"]}],"$undefined"]}]}],["$","h1",null,{"className":"font-medium leading-[1.04] tracking-[-0.03em]","style":{"fontSize":"clamp(2.5rem, 7vw, 6.5rem)"},"children":[["$","span",null,{"className":"block overflow-hidden","children":["$","$L2",null,{"y":120,"delay":80,"className":"block","children":"Growth"}]}],["$","span",null,{"className":"block overflow-hidden","children":["$","$L2",null,{"y":120,"delay":180,"className":"block italic font-light text-[#EDEDED]/65 bb-shimmer-text","children":"intelligence."}]}]]}],["$","$L2",null,{"delay":300,"className":"mt-12 max-w-2xl","children":["$","p",null,{"className":"font-light leading-[1.5] text-[#EDEDED]/50 text-lg sm:text-xl","children":"Field notes from building brands and the growth behind them — no fluff, only what moved the numbers."}]}],"$undefined"]}]}],["$","section",null,{"className":"relative px-6 sm:px-10 pt-[2vh] pb-[6vh] border-t border-[#EDEDED]/[0.08]","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"id":"soro-blog","style":{"minHeight":"50vh"}}]}]}],["$","$L3",null,{"src":"https://app.trysoro.com/api/embed/cfc90889-909c-4864-a183-bad191518f46?theme=dark","strategy":"afterInteractive"}],["$","section",null,{"className":"relative px-6 sm:px-10 py-[20vh] border-t border-[#EDEDED]/[0.08]","children":["$","$L2",null,{"className":"max-w-4xl mx-auto text-center","children":[["$","div",null,{"className":"text-[11px] tracking-[0.4em] uppercase text-[#EDEDED]/35 mb-12","children":["(","Work with us",")"]}],["$","h2",null,{"className":"font-light leading-[1.05] tracking-[-0.03em]","style":{"fontSize":"clamp(2.5rem, 7vw, 6rem)"},"children":["Stop reading.",["$","br",null,{}],["$","span",null,{"className":"italic text-[#EDEDED]/70 bb-shimmer-text","children":"Start growing."}]]}],["$","p",null,{"className":"mt-8 text-[#EDEDED]/45 max-w-md mx-auto leading-relaxed","children":"The articles help. A thirty-minute diagnostic with Doran helps more."}],["$","div",null,{"className":"mt-14 flex flex-col sm:flex-row gap-5 justify-center items-center","children":[["$","a",null,{"href":"https://wa.me/972545016006","target":"_blank","rel":"noopener noreferrer","className":"group bb-liquid-glass inline-flex items-center gap-3 border border-[#EDEDED]/25 rounded-full px-9 py-4 text-sm tracking-[0.15em] uppercase hover:bg-[#EDEDED] hover:text-[#0B0B0C] transition-all duration-500","children":["Book the call",["$","span",null,{"className":"group-hover:translate-x-1 transition-transform duration-500","children":"→"}]]}],["$","$L4",null,{"href":"/contact","className":"inline-flex items-center min-h-[44px] text-sm tracking-[0.15em] uppercase text-[#EDEDED]/40 hover:text-[#EDEDED] transition-colors","children":"Send a brief"}]]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0zyt3fogqzt0_.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Journal | BurnBright"}],["$","meta","1",{"name":"description","content":"Growth insights, automation guides and marketing strategy from the BurnBright studio."}],["$","meta","2",{"name":"keywords","content":"revenue diagnostic,conversion strategy,conversion systems,growth studio"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://burnbright.click/blog/"}],["$","link","5",{"rel":"alternate","hrefLang":"en-US","href":"https://burnbright.click/blog/"}],["$","meta","6",{"property":"og:title","content":"Journal | BurnBright"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]}],"$L1c"]}],"isPartial":"$@1d","staleTime":"$9","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$9","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@21","rootVaryParams":null,"needsRuntimeRequest":"$@22"}
+23:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+24:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+25:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+7:null
+c:["$","meta","7",{"property":"og:description","content":"Growth insights, automation guides and marketing strategy from the BurnBright studio."}]
+d:["$","meta","8",{"property":"og:url","content":"https://burnbright.click/blog/"}]
+e:["$","meta","9",{"property":"og:site_name","content":"BurnBright"}]
+f:["$","meta","10",{"property":"og:locale","content":"en_US"}]
+10:["$","meta","11",{"property":"og:image","content":"https://burnbright.click/opengraph-image"}]
+11:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+12:["$","meta","13",{"property":"og:image:height","content":"630"}]
+13:["$","meta","14",{"property":"og:type","content":"website"}]
+14:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+15:["$","meta","16",{"name":"twitter:title","content":"BurnBright — Revenue Systems Studio"}]
+16:["$","meta","17",{"name":"twitter:description","content":"Diagnose the leak, build the conversion path, then measure the outcome."}]
+17:["$","meta","18",{"name":"twitter:image","content":"https://burnbright.click/opengraph-image"}]
+18:["$","meta","19",{"name":"twitter:image:width","content":"1200"}]
+19:["$","meta","20",{"name":"twitter:image:height","content":"630"}]
+1a:["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+1b:["$","$L23","22",{}]
+1c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1e:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+22:true
+9:300
+9:C
+21:0
+1d:"$undefined"
+1f:"$undefined"
+8:"$undefined"

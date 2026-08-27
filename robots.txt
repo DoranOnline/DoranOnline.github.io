@@ -1,0 +1,17 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /auth
+Disallow: /client
+Disallow: /login
+Disallow: /signup
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /team
+Disallow: /research
+Disallow: /ds
+Disallow: /godtier
+
+Host: https://burnbright.click
+Sitemap: https://burnbright.click/sitemap.xml

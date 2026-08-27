@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[29696,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/06apg_o8-8_2i.js"],"default"]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+7:X
+1e:X
+1e:C
+0:{"buildId":"j10NYM7MiO3AuQtJhGuas","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"copy":{"productId":"podcast_production","eyebrow":"Podcast production · 2 episodes / month","eyebrowHe":"הפקת פודקאסט · 2 פרקים בחודש","h1":"Founder podcast. Done for you.","h1He":"פודקאסט מייסדים. מוכן עבורכם.","sub":"You hop on a 45-min Zoom twice a month and talk. We do the rest — edit, intro, outro, show notes, distribute to Spotify + Apple + YouTube + LinkedIn. Hebrew or English.","subHe":"אתם נכנסים ל-Zoom של 45 דקות פעמיים בחודש ומדברים. אנחנו עושים את השאר — עריכה, אינטרו, אאוטרו, הערות, הפצה ל-Spotify + Apple + YouTube + LinkedIn. עברית או אנגלית.","priceBig":"$$1,250 / mo","priceFine":"Cancel anytime after first 3 months. Full episode ownership.","priceFineHe":"אפשר לבטל אחרי 3 חודשים. בעלות מלאה על הפרקים.","cta":"Start the podcast","ctaHe":"תתחילו את הפודקאסט","ctaLoading":"Opening PayPal…","ctaLoadingHe":"פותח את PayPal…","includes":{"title":"What's included","titleHe":"מה כלול","items":["2 episodes recorded + edited per month","Professional intro + outro music","Show notes (300-500 words) per episode","Distribution to Spotify, Apple, YouTube","1 short-form clip per episode for LinkedIn / Instagram / TikTok","Episode artwork (1 per show, customised per episode)","Hebrew or English (or alternating)","Full episode ownership — yours forever"],"itemsHe":["2 פרקים מוקלטים וערוכים בחודש","מוזיקת אינטרו + אאוטרו מקצועית","הערות פרק (300-500 מילים) לכל פרק","הפצה ל-Spotify, Apple, YouTube","קליפ קצר אחד לפרק ל-LinkedIn / Instagram / TikTok","אומנות פרק (אחת לפודקאסט, מותאמת לכל פרק)","עברית או אנגלית (או לסירוגין)","בעלות מלאה על הפרקים — שלכם לתמיד"]},"process":{"title":"The cycle","titleHe":"המחזור","steps":[{"title":"Day 1 — Topic brief","titleHe":"יום 1 — בריף נושא","desc":"30-min planning call. We pick the episode topic + 5 talking points.","descHe":"שיחת תכנון של 30 דקות. בוחרים נושא + 5 נקודות מפתח."},{"title":"Days 2-3 — Record","titleHe":"ימים 2-3 — הקלטה","desc":"45-min Zoom recording. You talk, we direct lightly.","descHe":"הקלטת Zoom של 45 דקות. אתם מדברים, אנחנו מנחים בעדינות."},{"title":"Days 4-6 — Edit + assets","titleHe":"ימים 4-6 — עריכה ונכסים","desc":"Cut, polish, music, artwork, show notes, social clips.","descHe":"חיתוך, ליטוש, מוזיקה, אומנות, הערות, קליפי סושיאל."},{"title":"Day 7 — Ship","titleHe":"יום 7 — משלוח","desc":"Goes live on all platforms. Repeat 2x/month.","descHe":"עולה לכל הפלטפורמות. חוזר על עצמו פעמיים בחודש."}]},"faqs":[{"q":"What if I miss a recording?","qHe":"מה אם אני מפספס הקלטה?","a":"Rolls into the next month. Two-episode quota is monthly, can be banked up to 60 days.","aHe":"מתגלגל לחודש הבא. מכסת שני פרקים חודשית, אפשר לצבור עד 60 יום."},{"q":"Can I have a co-host?","qHe":"אפשר שותף להגשה?","a":"Yes — co-host included at no extra cost as long as they're consistent.","aHe":"כן — מנחה משותף כלול ללא עלות נוספת כל עוד הוא קבוע."},{"q":"What if we want video?","qHe":"מה אם אנחנו רוצים וידאו?","a":"Video included by default — released to YouTube. We use the audio for podcast platforms.","aHe":"וידאו כלול כברירת מחדל — משוחרר ל-YouTube. אנחנו משתמשים באודיו לפלטפורמות פודקאסט."}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/06apg_o8-8_2i.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Podcast Production · $1,250/mo · Recorded, edited, shipped — BurnBright"}],["$","meta","1",{"name":"description","content":"Productized founder-podcast retainer. We record, edit, write show notes, post to all platforms. 2 episodes/month. $1,250/mo flat."}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]}],"$L1a"]}],"isPartial":"$@1b","staleTime":"$7","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$7","varyParams":"$1e"}],"isUpgradeableISRFallback":false,"a":"$@1f","rootVaryParams":null,"needsRuntimeRequest":"$@20"}
+21:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+22:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+23:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:null
+a:["$","meta","2",{"name":"keywords","content":"revenue diagnostic,conversion strategy,conversion systems,growth studio"}]
+b:["$","meta","3",{"name":"robots","content":"index, follow"}]
+c:["$","link","4",{"rel":"canonical","href":"https://burnbright.click/podcast-production/"}]
+d:["$","meta","5",{"property":"og:title","content":"Podcast Production · $1,250/mo · Recorded, edited, shipped — BurnBright"}]
+e:["$","meta","6",{"property":"og:description","content":"Productized founder-podcast retainer. We record, edit, write show notes, post to all platforms. 2 episodes/month. $1,250/mo flat."}]
+f:["$","meta","7",{"property":"og:url","content":"https://burnbright.click/podcast-production/"}]
+10:["$","meta","8",{"property":"og:image","content":"https://burnbright.click/opengraph-image"}]
+11:["$","meta","9",{"property":"og:image:width","content":"1200"}]
+12:["$","meta","10",{"property":"og:image:height","content":"630"}]
+13:["$","meta","11",{"property":"og:type","content":"website"}]
+14:["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}]
+15:["$","meta","13",{"name":"twitter:title","content":"Podcast Production · $1,250/mo · Recorded, edited, shipped — BurnBright"}]
+16:["$","meta","14",{"name":"twitter:description","content":"Productized founder-podcast retainer. We record, edit, write show notes, post to all platforms. 2 episodes/month. $1,250/mo flat."}]
+17:["$","meta","15",{"name":"twitter:image","content":"https://burnbright.click/opengraph-image"}]
+18:["$","link","16",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+19:["$","$L21","17",{}]
+1a:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1c:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+20:true
+7:300
+7:C
+1f:0
+1b:"$undefined"
+1d:"$undefined"
+6:"$undefined"

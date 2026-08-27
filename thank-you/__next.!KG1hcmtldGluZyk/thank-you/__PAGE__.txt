@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[47257,["/_next/static/chunks/3fntmmi971322.js"],"ClientPageRoot"]
+3:I[22017,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/2zk1efl7x554j.js"],"default"]
+6:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+d:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+f:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+10:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+a:X
+0:{"buildId":"j10NYM7MiO3AuQtJhGuas","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/2zk1efl7x554j.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Thank you — BurnBright"}],["$","meta","1",{"name":"description","content":"Thanks — we've got your request and will be in touch shortly."}],["$","meta","2",{"name":"keywords","content":"revenue diagnostic,conversion strategy,conversion systems,growth studio"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"canonical","href":"https://burnbright.click/thank-you/"}],["$","meta","5",{"property":"og:title","content":"Thank you — BurnBright"}],["$","meta","6",{"property":"og:description","content":"Thanks — we've got your request and will be in touch shortly."}],["$","meta","7",{"property":"og:url","content":"https://burnbright.click/thank-you/"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"BurnBright — Revenue Systems Studio"}],["$","meta","11",{"name":"twitter:description","content":"Diagnose the leak, build the conversion path, then measure the outcome."}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Ld","13",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+13:true
+a:300
+a:C
+12:0
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

@@ -1,0 +1,13 @@
+{
+  "name": "BurnBright",
+  "short_name": "BurnBright",
+  "description": "Independent digital growth studio — brand, performance and content. Tel Aviv.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0B0C",
+  "theme_color": "#FF4500",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}

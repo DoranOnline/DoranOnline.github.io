@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[29696,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/06apg_o8-8_2i.js"],"default"]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+7:X
+1d:X
+1d:C
+0:{"buildId":"j10NYM7MiO3AuQtJhGuas","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"copy":{"productId":"explainer_video","eyebrow":"Explainer · 60-90 seconds · 14 days","eyebrowHe":"וידאו הסבר · 60-90 שניות · 14 ימים","h1":"A 60-second video that closes deals.","h1He":"וידאו של 60 שניות שסוגר עסקאות.","sub":"Hand-animated, professional voiceover, your brand. Lives on your homepage, in your sales decks, in your Meta ads. $2,600 fixed price, 14-day delivery.","subHe":"אנימציה בעבודת יד, הקלטה מקצועית, המותג שלכם. חי על דף הבית, במצגות מכירה, בפרסומות Meta. $2,600 מחיר קבוע, משלוח תוך 14 יום.","priceBig":"$$2,600","priceFine":"One-time. Hebrew + English voiceover both included. 2 revision rounds.","priceFineHe":"תשלום חד-פעמי. הקלטה בעברית ובאנגלית כלולה. 2 סבבי תיקונים.","cta":"Order the video","ctaHe":"הזמינו את הוידאו","ctaLoading":"Opening PayPal…","ctaLoadingHe":"פותח את PayPal…","includes":{"title":"What you get","titleHe":"מה אתם מקבלים","items":["60-90 second animated explainer video","Professional voiceover in Hebrew + English (both included)","Storyboard approval before animation begins","Custom in your brand colors + typography","Background music + sound design","Square + 16:9 + 9:16 (vertical) versions for every platform","Subtitles in both languages","All source files (Adobe After Effects project + assets)"],"itemsHe":["וידאו אנימציה של 60-90 שניות","הקלטה מקצועית בעברית ובאנגלית (שתיהן כלולות)","אישור Storyboard לפני שהאנימציה מתחילה","מותאם לצבעי המותג שלכם והטיפוגרפיה","מוזיקת רקע + עיצוב סאונד","גרסאות מרובע + 16:9 + 9:16 (אנכי) לכל פלטפורמה","כתוביות בשתי השפות","כל קבצי המקור (פרויקט Adobe After Effects + נכסים)"]},"process":{"title":"The 14-day timeline","titleHe":"ציר הזמן של 14 הימים","steps":[{"title":"Days 1-2 — Script","titleHe":"ימים 1-2 — תסריט","desc":"60-min discovery call. We write the script + tagline. You approve.","descHe":"שיחת היכרות של 60 דקות. אנחנו כותבים תסריט וסלוגן. אתם מאשרים."},{"title":"Days 3-5 — Storyboard","titleHe":"ימים 3-5 — סטוריבורד","desc":"Frame-by-frame mockup. You approve before animation starts.","descHe":"מקאפ פריים אחר פריים. אתם מאשרים לפני התחלת אנימציה."},{"title":"Days 6-11 — Animate + voice","titleHe":"ימים 6-11 — אנימציה והקלטה","desc":"Full build. Professional voiceover. Background music.","descHe":"בנייה מלאה. הקלטה מקצועית. מוזיקת רקע."},{"title":"Days 12-14 — Polish + deliver","titleHe":"ימים 12-14 — ליטוש ומשלוח","desc":"2 revision rounds inside this window. All formats delivered.","descHe":"2 סבבי תיקונים בתוך החלון. כל הפורמטים נמסרים."}]},"faqs":[{"q":"Live action option?","qHe":"אפשרות וידאו לייב?","a":"Not in this product. Animated only. Live action is custom-quoted.","aHe":"לא במוצר זה. רק אנימציה. וידאו לייב מתומחר בנפרד."},{"q":"What if I want longer than 90s?","qHe":"מה אם אני רוצה יותר מ-90 שניות?","a":"Add $850 per 30 additional seconds. Cap at 3 minutes.","aHe":"תוסיפו $850 לכל 30 שניות נוספות. תקרה של 3 דקות."}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/06apg_o8-8_2i.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Explainer Video · $2,600 · 60-90s animated, shipped in 14 days — BurnBright"}],["$","meta","1",{"name":"description","content":"Productized animated explainer video. 60-90 seconds, professional voiceover, your brand. Fixed price, 14-day delivery, you own all source files."}],["$","meta","2",{"name":"keywords","content":"revenue diagnostic,conversion strategy,conversion systems,growth studio"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]}],"$L19"]}],"isPartial":"$@1a","staleTime":"$7","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$7","varyParams":"$1d"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+21:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+22:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:null
+a:["$","meta","3",{"name":"robots","content":"index, follow"}]
+b:["$","link","4",{"rel":"canonical","href":"https://burnbright.click/explainer-video/"}]
+c:["$","meta","5",{"property":"og:title","content":"Explainer Video · $2,600 · 60-90s animated, shipped in 14 days — BurnBright"}]
+d:["$","meta","6",{"property":"og:description","content":"Productized animated explainer video. 60-90 seconds, professional voiceover, your brand. Fixed price, 14-day delivery, you own all source files."}]
+e:["$","meta","7",{"property":"og:url","content":"https://burnbright.click/explainer-video/"}]
+f:["$","meta","8",{"property":"og:image","content":"https://burnbright.click/opengraph-image"}]
+10:["$","meta","9",{"property":"og:image:width","content":"1200"}]
+11:["$","meta","10",{"property":"og:image:height","content":"630"}]
+12:["$","meta","11",{"property":"og:type","content":"website"}]
+13:["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}]
+14:["$","meta","13",{"name":"twitter:title","content":"Explainer Video · $2,600 · 60-90s animated, shipped in 14 days — BurnBright"}]
+15:["$","meta","14",{"name":"twitter:description","content":"Productized animated explainer video. 60-90 seconds, professional voiceover, your brand. Fixed price, 14-day delivery, you own all source files."}]
+16:["$","meta","15",{"name":"twitter:image","content":"https://burnbright.click/opengraph-image"}]
+17:["$","link","16",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+18:["$","$L20","17",{}]
+19:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1b:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+1f:true
+7:300
+7:C
+1e:0
+1a:"$undefined"
+1c:"$undefined"
+6:"$undefined"

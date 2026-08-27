@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[84929,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/3crqq4u3xi3k8.js"],"default"]
+3:I[57269,["/_next/static/chunks/18sy1k2853ibu.js","/_next/static/chunks/2iab881d7pf_v.js","/_next/static/chunks/3goovbh02eacj.js","/_next/static/chunks/3crqq4u3xi3k8.js"],"default"]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+28:X
+28:C
+0:{"buildId":"j10NYM7MiO3AuQtJhGuas","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative px-6 sm:px-10 pt-[28vh] pb-[12vh]","children":["$","div",null,{"className":"max-w-6xl mx-auto","children":[["$","$L2",null,{"children":["$","div",null,{"className":"flex items-center justify-between gap-6 mb-12","children":[["$","span",null,{"className":"text-[11px] tracking-[0.4em] uppercase text-[#EDEDED]/35","children":["(","Contact",")"]}],["$","span",null,{"className":"text-[11px] tracking-[0.3em] uppercase text-[#EDEDED]/35 text-right","children":"Brief intake"}]]}]}],["$","h1",null,{"className":"font-medium leading-[1.04] tracking-[-0.03em]","style":{"fontSize":"clamp(2.5rem, 7vw, 6.5rem)"},"children":[["$","span",null,{"className":"block overflow-hidden","children":["$","$L2",null,{"y":120,"delay":80,"className":"block","children":"Tell us about"}]}],["$","span",null,{"className":"block overflow-hidden","children":["$","$L2",null,{"y":120,"delay":180,"className":"block italic font-light text-[#EDEDED]/65 bb-shimmer-text","children":"your business."}]}]]}],["$","$L2",null,{"delay":300,"className":"mt-12 max-w-2xl","children":["$","p",null,{"className":"font-light leading-[1.5] text-[#EDEDED]/50 text-lg sm:text-xl","children":"Send a brief to enter the operating queue, or reach the studio directly. The first conversation is free."}]}],"$undefined"]}]}],["$","section",null,{"className":"relative px-6 sm:px-10 py-[8vh] border-t border-[#EDEDED]/[0.08]","children":["$","div",null,{"className":"max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-y-16 gap-x-16","children":[["$","div",null,{"className":"lg:col-span-7","children":["$","$L2",null,{"children":["$","$L3",null,{}]}]}],["$","div",null,{"className":"lg:col-span-5 lg:border-l lg:border-[#EDEDED]/[0.08] lg:pl-16","children":["$","$L2",null,{"delay":120,"children":[["$","div",null,{"className":"text-[11px] tracking-[0.4em] uppercase text-[#EDEDED]/35 mb-12 pt-16 lg:pt-0","children":"(Direct lines)"}],["$","div",null,{"className":"space-y-10","children":[["$","div","WhatsApp",{"className":"border-b border-[#EDEDED]/[0.08] pb-8","children":[["$","div",null,{"className":"text-[11px] tracking-[0.25em] uppercase text-[#EDEDED]/40 mb-3","children":"WhatsApp"}],["$","a",null,{"href":"https://wa.me/972545016006","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center min-h-[44px] text-xl sm:text-2xl font-light tracking-[-0.02em] hover:text-[#FF4500] transition-colors","children":"+972 54-501-6006"}]]}],["$","div","Email",{"className":"border-b border-[#EDEDED]/[0.08] pb-8","children":[["$","div",null,{"className":"text-[11px] tracking-[0.25em] uppercase text-[#EDEDED]/40 mb-3","children":"Email"}],["$","a",null,{"href":"mailto:hello@burnbright.click","className":"inline-flex items-center min-h-[44px] text-xl sm:text-2xl font-light tracking-[-0.02em] hover:text-[#FF4500] transition-colors","children":"hello@burnbright.click"}]]}],["$","div","Studio",{"className":"border-b border-[#EDEDED]/[0.08] pb-8","children":[["$","div",null,{"className":"text-[11px] tracking-[0.25em] uppercase text-[#EDEDED]/40 mb-3","children":"Studio"}],["$","div",null,{"className":"text-xl sm:text-2xl font-light tracking-[-0.02em]","children":"Remote-first, working US hours"}]]}]]}],["$","p",null,{"className":"mt-12 text-[#EDEDED]/40 leading-relaxed text-[15px]","children":"Prefer to talk? A thirty-minute diagnostic call with Doran is the fastest way to know if we're a fit — no pitch, no pressure."}]]}]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/3crqq4u3xi3k8.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact | BurnBright"}],["$","meta","1",{"name":"description","content":"Tell us about your business. Send a brief, message us on WhatsApp, or email the studio directly."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]}],"$L24"]}],"isPartial":"$@25","staleTime":"$8","varyParams":null},{"rsc":"$L26","isPartial":"$@27","staleTime":"$8","varyParams":"$28"}],"isUpgradeableISRFallback":false,"a":"$@29","rootVaryParams":null,"needsRuntimeRequest":"$@2a"}
+2b:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2c:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+2d:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","meta","2",{"name":"keywords","content":"revenue diagnostic,conversion strategy,conversion systems,growth studio"}]
+c:["$","meta","3",{"name":"robots","content":"index, follow"}]
+d:["$","link","4",{"rel":"canonical","href":"https://burnbright.click/contact/"}]
+e:["$","link","5",{"rel":"alternate","hrefLang":"en-US","href":"https://burnbright.click/contact/"}]
+f:["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://burnbright.click/contact/"}]
+10:["$","meta","7",{"property":"og:title","content":"Contact | BurnBright"}]
+11:["$","meta","8",{"property":"og:description","content":"Tell us about your business. Send a brief, message us on WhatsApp, or email the studio directly."}]
+12:["$","meta","9",{"property":"og:url","content":"https://burnbright.click/contact/"}]
+13:["$","meta","10",{"property":"og:locale","content":"en_US"}]
+14:["$","meta","11",{"property":"og:image","content":"https://burnbright.click/contact/opengraph-image-1a8v0t?0b25fa4e35864e52"}]
+15:["$","meta","12",{"property":"og:image:type","content":"image/png"}]
+16:["$","meta","13",{"property":"og:image:width","content":"1200"}]
+17:["$","meta","14",{"property":"og:image:height","content":"630"}]
+18:["$","meta","15",{"property":"og:image:alt","content":"BurnBright — Contact"}]
+19:["$","meta","16",{"property":"og:type","content":"website"}]
+1a:["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}]
+1b:["$","meta","18",{"name":"twitter:title","content":"Contact | BurnBright"}]
+1c:["$","meta","19",{"name":"twitter:description","content":"Tell us about your business. Send a brief, message us on WhatsApp, or email the studio directly."}]
+1d:["$","meta","20",{"name":"twitter:image","content":"https://burnbright.click/contact/opengraph-image-1a8v0t?0b25fa4e35864e52"}]
+1e:["$","meta","21",{"name":"twitter:image:alt","content":"BurnBright — Contact"}]
+1f:["$","meta","22",{"name":"twitter:image:type","content":"image/png"}]
+20:["$","meta","23",{"name":"twitter:image:width","content":"1200"}]
+21:["$","meta","24",{"name":"twitter:image:height","content":"630"}]
+22:["$","link","25",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+23:["$","$L2b","26",{}]
+24:["$","meta",null,{"name":"next-size-adjust","content":""}]
+26:["$","$1","c",{"children":[null,["$","$L2c",null,{"parallelRouterKey":"children","template":["$","$L2d",null,{}]}]]}]
+2a:true
+8:300
+8:C
+29:0
+25:"$undefined"
+27:"$undefined"
+7:"$undefined"
